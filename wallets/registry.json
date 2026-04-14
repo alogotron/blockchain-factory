@@ -1,0 +1,70 @@
+{
+  "wallets": [
+    {
+      "name": "Agent Alpha",
+      "alias": "alpha",
+      "address": "0xaAB80bC6B6040aE845cE225181fD72297bA71b13",
+      "chains": [
+        "ethereum",
+        "base",
+        "sepolia",
+        "base-sepolia"
+      ],
+      "role": "primary",
+      "notes": "",
+      "erc8004_agent_id_base": 44667,
+      "erc8004_registered": true,
+      "execution_market": true
+    },
+    {
+      "name": "Agent Beta",
+      "alias": "beta",
+      "address": "0xAFdb0c3cB7132705bC3fB30d7443607DeB508Af8",
+      "chains": [
+        "ethereum",
+        "base",
+        "sepolia",
+        "base-sepolia"
+      ],
+      "role": "secondary",
+      "notes": "",
+      "erc8004_agent_id_base": 44668,
+      "erc8004_registered": true,
+      "execution_market": true
+    },
+    {
+      "name": "Agent Gamma",
+      "alias": "gamma",
+      "address": "0xd3a9D344c0dc94f0F85B3AF2C8bB0C284244Bb7A",
+      "chains": [
+        "ethereum",
+        "base",
+        "sepolia",
+        "base-sepolia"
+      ],
+      "role": "secondary",
+      "notes": "",
+      "erc8004_agent_id_base": 44669,
+      "erc8004_registered": true,
+      "execution_market": true
+    },
+    {
+      "name": "Agent Delta",
+      "alias": "delta",
+      "address": "0xFB493Dc87E4563C27d5A4CebDec8c7dB1B4f27c4",
+      "chains": [
+        "ethereum",
+        "base",
+        "sepolia",
+        "base-sepolia"
+      ],
+      "role": "secondary",
+      "notes": "",
+      "erc8004_agent_id_base": 44670,
+      "erc8004_registered": true,
+      "execution_market": true
+    }
+  ],
+  "notes": "Private keys stored in A0 secrets manager only. Add new wallets here as you create them.",
+  "last_updated": "2026-04-14"
+}

@@ -1,0 +1,31 @@
+# Secrets
+.a0proj/secrets.env
+.a0proj/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Rust
+target/
+
+# Foundry
+out/
+cache/
+
+# Build artifacts
+*.lock
+!package-lock.json
+
+# OS
+.DS_Store
+
+# Logs with sensitive data (keep structure, exclude content)
+logs/

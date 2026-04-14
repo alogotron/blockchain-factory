@@ -1,0 +1,12 @@
+{
+  "name": "aztec-footprint",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@aztec/aztec.js": "4.1.3",
+    "@aztec/accounts": "4.1.3"
+  }
+}

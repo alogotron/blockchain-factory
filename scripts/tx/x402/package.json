@@ -1,0 +1,22 @@
+{
+  "name": "x402",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@x402/core": "^2.9.0",
+    "@x402/evm": "^2.9.0",
+    "@x402/express": "^2.9.0",
+    "@x402/fetch": "^2.9.0",
+    "dotenv": "^17.4.1",
+    "express": "^5.2.1",
+    "viem": "^2.47.11"
+  },
+  "type": "module"
+}
